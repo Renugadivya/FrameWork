@@ -13,7 +13,7 @@ public class Employee extends VariProgram{
 			
 			E.add();
 			System.out.println("Hi");
-			
+			System.out.println("Hello");
 	}
 
 }
